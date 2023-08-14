@@ -1,5 +1,5 @@
 # DigikalaScraping
-Trying to Web Scraping Digikala Usings Beatiful Soup Library.
+Trying to Web Scraping Digikala Website Usings Beatiful Soup Library.
 Becuase of the Dynamic Nature of this website we have to Use Selenium Or PlayWright Lib to get full Page Source.
 This Project has two main Code File that each one can perform sepratly.
 
